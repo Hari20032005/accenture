@@ -1,0 +1,340 @@
+account_id,category,category_label,question_as_recorded
+2026-07,intro,Tell me about yourself,Introduce yourself
+2026-07,project,"Project deep-dive (role, challenges, design)",Deep dive into personal projects
+2026-07,techstack,Why this tech stack / which tech are you comfortable in,"""Why this tech stack?"""
+2026-07,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""MongoDB vs SQL?"""
+2026-07,project,"Project deep-dive (role, challenges, design)",Technical questions on project features and code dependencies
+2026-07,team,"Teamwork, group projects, team size",Managerial questions on teamwork and achievements
+2026-07,future,Future goals / 5 years,"""Future goals?"""
+2026-01,intro,Tell me about yourself,Self-introduction
+2026-01,coding,Live coding on the spot,Discussion of their LeetCode profile
+2026-01,project,"Project deep-dive (role, challenges, design)","Final-year capstone project, their backend contribution"
+2026-01,project,"Project deep-dive (role, challenges, design)",Personal Android (Kotlin) projects
+2026-01,techstack,Why this tech stack / which tech are you comfortable in,"Why they built it, tech stack, database design, real-world problem solving"
+2025-12,project,"Project deep-dive (role, challenges, design)",Walk me through your projects
+2025-12,scenario,Scenario: 'imagine you build…',"""Imagine you live in a society and want to build a project that helps people living in it"""
+2025-12,certs,Certifications and courses,"""What certifications or courses have you completed?"""
+2025-12,techstack,Why this tech stack / which tech are you comfortable in,"""What tech are you most comfortable with, and can you switch tech stacks within a month?"""
+2025-11b,project,"Project deep-dive (role, challenges, design)","""Why did you choose this project?"""
+2025-11b,techstack,Why this tech stack / which tech are you comfortable in,"""Why this technology stack?"""
+2025-11b,project,"Project deep-dive (role, challenges, design)","""How did you improve query performance?"""
+2025-11b,project,"Project deep-dive (role, challenges, design)",Deep dive into architecture and decisions
+2025-11b,family,Family background and hometown,"""Tell me about your family"""
+2025-11b,why,Why Accenture / what do you know about us,"""Why Accenture?"""
+2025-11b,your_q,"""Any questions for me?""",Any questions for me?
+2025-11a,internship,"Internship: what, how long, problems, stack","""Explain about your internship. What was the duration?"""
+2025-11a,internship,"Internship: what, how long, problems, stack","""Explain the problems you faced in the internship and which tech stack you used"""
+2025-11a,project,"Project deep-dive (role, challenges, design)","""Explain your final year project"" and how you designed the APIs"
+2025-11a,reloc,Relocation and shifts,Willingness to relocate
+2025-11a,future,Future goals / 5 years,Future career goals
+2025-11a,techstack,Why this tech stack / which tech are you comfortable in,Adaptability and culture fit
+2025-08,intro,Tell me about yourself,Self-introduction
+2025-08,project,"Project deep-dive (role, challenges, design)",Major project
+2025-08,project,"Project deep-dive (role, challenges, design)",Minor project
+2025-08,facts,"Accenture facts (CEO, HQ, headcount)","""Who is the CEO of Accenture?"""
+2025-08,facts,"Accenture facts (CEO, HQ, headcount)","""Where is Accenture's global headquarters?"""
+2025-08,facts,"Accenture facts (CEO, HQ, headcount)","""Where is the Indian headquarters located?"""
+2025-07b,intro,Tell me about yourself,Introduce yourself
+2025-07b,project,"Project deep-dive (role, challenges, design)",Projects on the resume; the interviewer opened the project links
+2025-07b,project,"Project deep-dive (role, challenges, design)","""What challenges did you encounter?"""
+2025-07b,team,"Teamwork, group projects, team size",Campus club involvement and your role
+2025-07b,future,Future goals / 5 years,Future plans and interests
+2025-07b,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""What is agile application development?"""
+2025-07b,techstack,Why this tech stack / which tech are you comfortable in,Tech stack used in the projects
+2025-07a,intro,Tell me about yourself,Introduce yourself
+2025-07a,team,"Teamwork, group projects, team size",How do you feel about working in a team?
+2025-07a,team,"Teamwork, group projects, team size",Pros and cons of working in a team
+2025-07a,certs,Certifications and courses,"""Have you done any courses or projects related to tech background?"""
+2025-07a,project,"Project deep-dive (role, challenges, design)",Project questions from the resume
+2025-01,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","OOP concepts with examples (inheritance, polymorphism)"
+2025-01,coding,Live coding on the spot,"Write SQL: SELECT, JOIN, GROUP BY"
+2025-01,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","Cloud computing basics, especially hybrid cloud"
+2025-01,project,"Project deep-dive (role, challenges, design)","Project: technologies, challenges, solutions"
+2025-01,why,Why Accenture / what do you know about us,"""Why do you want to join Accenture?"""
+2025-01,reloc,Relocation and shifts,Relocation and shift work
+2025-01,scenario,Scenario: 'imagine you build…',Teamwork scenarios
+2024-10d,project,"Project deep-dive (role, challenges, design)",Project: how you built it and what problems you faced
+2024-10d,family,Family background and hometown,Family background and hometown
+2024-10c,intro,Tell me about yourself,Introduce yourself
+2024-10c,team,"Teamwork, group projects, team size","""Have you done any team projects?"""
+2024-10c,project,"Project deep-dive (role, challenges, design)",Tell me about the project
+2024-10c,project,"Project deep-dive (role, challenges, design)","""What was your role?"""
+2024-10c,project,"Project deep-dive (role, challenges, design)","""What are the key learnings of the project?"""
+2024-10c,project,"Project deep-dive (role, challenges, design)","""What difficulties you faced during the project?"""
+2024-10c,failure,"Failure, conflict, being unsuccessful","""Have you ever been unsuccessful?"""
+2024-10c,why,Why Accenture / what do you know about us,"""Why do you want to join Accenture"""
+2024-10c,facts,"Accenture facts (CEO, HQ, headcount)","""What is name of the CEO of Accenture?"""
+2024-10c,facts,"Accenture facts (CEO, HQ, headcount)","""How many employees currently work in Accenture?"""
+2024-10c,scenario,Scenario: 'imagine you build…',"""Apart from studies have you done anything for society?"""
+2024-10c,subjects,Favourite / least favourite subject,"""What is your least favorite subject in college and why?"""
+2024-10c,failure,"Failure, conflict, being unsuccessful","""Do you ever faced any problems with your team members?"""
+2024-10c,your_q,"""Any questions for me?""",Any questions for me?
+2024-10b,intro,Tell me about yourself,"""Start by introducing yourself briefly"""
+2024-10b,project,"Project deep-dive (role, challenges, design)",Details of your current project
+2024-10b,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""Explain the distinctions between HTML, CSS, and JavaScript in a nutshell"""
+2024-10b,internship,"Internship: what, how long, problems, stack",Insights from your internship
+2024-10b,subjects,Favourite / least favourite subject,Least favourite subject
+2024-10b,techstack,Why this tech stack / which tech are you comfortable in,"""Considering your frontend focus, why not backend or full stack?"""
+2024-09e,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""What are the different types of data structures?"""
+2024-09e,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""Difference between an Array and a Linked List?"""
+2024-09e,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""What is Operating System?"""
+2024-09e,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""What is a Database?"""
+2024-09e,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""What do you understand by SQL?"""
+2024-09d,coding,Live coding on the spot,Coding: find the first non-repeating character in a string
+2024-09c,intro,Tell me about yourself,"Introduce yourself: education, skills, family, certifications"
+2024-09c,project,"Project deep-dive (role, challenges, design)",Projects
+2024-09c,team,"Teamwork, group projects, team size",Hackathons and team scenarios
+2024-09c,techstack,Why this tech stack / which tech are you comfortable in,Choice of technology stack
+2024-09c,strengths,"Strengths, weaknesses, why hire you","""How do you build network"""
+2024-09c,certs,Certifications and courses,Certifications
+2024-09c,why,Why Accenture / what do you know about us,"Basic questions about Accenture, why Accenture"
+2024-09c,your_q,"""Any questions for me?""",Your questions
+2024-09b,intro,Tell me about yourself,"""Introduce yourself."""
+2024-09b,project,"Project deep-dive (role, challenges, design)","""Tell me about your project."""
+2024-09b,project,"Project deep-dive (role, challenges, design)",Follow-ups on the project
+2024-09b,your_q,"""Any questions for me?""",The candidate asked about Accenture's technologies
+2024-06,intro,Tell me about yourself,"""Tell me about yourself."""
+2024-06,project,"Project deep-dive (role, challenges, design)","""Explain the projects you have worked on during college."""
+2024-06,team,"Teamwork, group projects, team size","""Give a detailed description of your group project."""
+2024-06,team,"Teamwork, group projects, team size","""What difficulties did you face while working in a group project?"""
+2024-06,team,"Teamwork, group projects, team size","""Compare group projects vs. individual projects: pros and cons"""
+2024-06,project,"Project deep-dive (role, challenges, design)","""What was your specific role in the project?"""
+2024-06,your_q,"""Any questions for me?""","""Do you have any questions for me?"""
+2024-05b,intro,Tell me about yourself,Self introduction
+2024-05b,project,"Project deep-dive (role, challenges, design)",About project
+2024-05b,team,"Teamwork, group projects, team size",How the work was divided
+2024-05b,team,"Teamwork, group projects, team size",How many members in the team
+2024-05b,subjects,Favourite / least favourite subject,Favourite subject
+2024-05b,subjects,Favourite / least favourite subject,Subjects you are not interested in
+2024-05b,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""Which are the Recent Technologies are going in Latest Trend?"""
+2024-05b,why,Why Accenture / what do you know about us,About Accenture
+2024-05b,your_q,"""Any questions for me?""",Any queries?
+2024-05a,intro,Tell me about yourself,"""Introduce Yourself"""
+2024-05a,degree,Your degree / branch,"""What is Dual Degree"" (they had an integrated degree)"
+2024-05a,degree,Your degree / branch,"""You are from mechanical, why you want to join the IT Role"""
+2024-05a,certs,Certifications and courses,"""Have you done any IT certifications"""
+2024-05a,project,"Project deep-dive (role, challenges, design)","""Explain your Project"""
+2024-05a,team,"Teamwork, group projects, team size",A group project and your role in it
+2024-05a,internship,"Internship: what, how long, problems, stack","""Explain about your internship experience"""
+2024-05a,strengths,"Strengths, weaknesses, why hire you","""What are your strengths and weakness"""
+2024-03,intro,Tell me about yourself,"""Tell me about yourself"""
+2024-03,project,"Project deep-dive (role, challenges, design)","""Explain your final-year project"""
+2024-03,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""Basics of OOP concepts (Oops pillars)"""
+2024-03,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""Difference between Java and Python"""
+2024-03,why,Why Accenture / what do you know about us,"""What do you know about Accenture?"""
+2024-03,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","Java and SQL basics, keys, logic problems"
+2024-03,reloc,Relocation and shifts,"""Are you comfortable with relocation?"""
+2024-03,future,Future goals / 5 years,"""Where do you see yourself in 5 years?"""
+2024-03,strengths,"Strengths, weaknesses, why hire you","""Why should we hire you as a fresher?"""
+2024-aeh,intro,Tell me about yourself,Self-introduction
+2024-aeh,degree,Your degree / branch,Your branch and where programming fits
+2024-aeh,techstack,Why this tech stack / which tech are you comfortable in,Projects: tech stack and architecture
+2024-aeh,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""What is a DBMS, and what are RDBMS and their difference?"""
+2024-aeh,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""What are Transactions and ACID properties?"""
+2024-aeh,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)",COALESCE in SQL
+2024-aeh,coding,Live coding on the spot,Coding: a hash-table problem and a min-heap (kth smallest) problem
+2024-aeh,team,"Teamwork, group projects, team size","Managerial: team activities, your own contribution, positions of responsibility"
+2023-09,intro,Tell me about yourself,"""Tell me about yourself."""
+2023-09,strengths,"Strengths, weaknesses, why hire you","""Why do you believe you are suited for this role?"""
+2023-09,why,Why Accenture / what do you know about us,"""Why Accenture?"""
+2023-09,failure,"Failure, conflict, being unsuccessful","""How do you handle failure?"""
+2023-09,failure,"Failure, conflict, being unsuccessful","""How would you resolve a disagreement with a colleague?"""
+2023-09,project,"Project deep-dive (role, challenges, design)","Project: why the frontend part, and how you sought mentor guidance"
+2026-09,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","Mostly basic questions, relatively light on technical"
+2026-09,project,"Project deep-dive (role, challenges, design)",A detailed discussion of the resume
+2026-04,intro,Tell me about yourself,"Introduce yourself (family, academics, hobbies, internships)"
+2026-04,hobbies,"Hobbies, competitions, extracurriculars","""What are your hobbies?"""
+2026-04,failure,"Failure, conflict, being unsuccessful","""How would you handle conflict as a team lead?"""
+2026-04,techstack,Why this tech stack / which tech are you comfortable in,"""Which technologies have you worked on?"""
+2026-04,intro,Tell me about yourself,"""Tell me about your academic journey"""
+2026-04,failure,"Failure, conflict, being unsuccessful",Describe a difficult situation or failure and how you handled it
+2026-04,strengths,"Strengths, weaknesses, why hire you","""What are three qualities of a good software developer?"""
+2026-04,your_q,"""Any questions for me?""",Do you have any questions for us?
+2026-01b,intro,Tell me about yourself,"""Tell me about yourself"""
+2026-01b,project,"Project deep-dive (role, challenges, design)","""Can you explain any project where you implemented innovation?"""
+2026-01b,project,"Project deep-dive (role, challenges, design)","""Did you face any problems during these projects?"""
+2026-01b,hobbies,"Hobbies, competitions, extracurriculars",Competitions and extra-curriculars (incl. eliminations)
+2026-01b,leadership,"Leadership, event organising, leading a team","Organising a tech fest: logistics, vendors, scheduling"
+2026-01b,your_q,"""Any questions for me?""",Do you have any questions for me?
+2025-11c,intro,Tell me about yourself,Self-introduction
+2025-11c,hobbies,"Hobbies, competitions, extracurriculars",A few questions about hobbies
+2025-11c,scenario,Scenario: 'imagine you build…',A situation-based question: explain your approach and thought process
+2025-11c,project,"Project deep-dive (role, challenges, design)","Why you built your projects, the challenges, the technical decisions"
+2025-11c,team,"Teamwork, group projects, team size",Teamwork experiences
+2025-11c,learning,How you learn new technology,How you learn new technologies
+2025-11d,project,"Project deep-dive (role, challenges, design)",Detailed project discussion
+2025-11d,techstack,Why this tech stack / which tech are you comfortable in,Tech-stack choices and trade-offs
+2025-11d,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)",Cloud computing questions
+2025-11d,coding,Live coding on the spot,SQL queries
+2025-11d,coding,Live coding on the spot,A few easy DSA questions
+2025-11d,strengths,"Strengths, weaknesses, why hire you",Basic HR questions
+2025-05,intro,Tell me about yourself,A brief self-introduction
+2025-05,scenario,Scenario: 'imagine you build…',Scenario-based behavioural questions
+2025-05,project,"Project deep-dive (role, challenges, design)",Project deep-dives from the resume
+2025-05,hobbies,"Hobbies, competitions, extracurriculars",Hackathon experiences
+2025-05,project,"Project deep-dive (role, challenges, design)",Problem statements from past academic work
+2025-05,your_q,"""Any questions for me?""",Encouraged to ask questions
+2024-05c,intro,Tell me about yourself,Introduce yourself
+2024-05c,project,"Project deep-dive (role, challenges, design)",Describe your projects
+2024-05c,project,"Project deep-dive (role, challenges, design)",Follow-up technical questions about the projects
+2024-05c,project,"Project deep-dive (role, challenges, design)",What you learned from the projects
+2024-05c,strengths,"Strengths, weaknesses, why hire you",A time you turned a problem into an opportunity
+2024-05c,failure,"Failure, conflict, being unsuccessful",Conflicts you met at work and how you resolved them
+2024-05c,leadership,"Leadership, event organising, leading a team",How you distributed tasks among your team as a leader
+2024-05c,team,"Teamwork, group projects, team size",Your approach to resolving conflicts in a team
+2023-09b,intro,Tell me about yourself,Introduce yourself
+2023-09b,project,"Project deep-dive (role, challenges, design)","Tell me about your projects, with follow-up technical questions"
+2023-09b,project,"Project deep-dive (role, challenges, design)",What you learned from the project
+2023-09b,strengths,"Strengths, weaknesses, why hire you","""Describe a time when you saw a problem as an opportunity"""
+2023-09b,failure,"Failure, conflict, being unsuccessful",A conflict at work
+2024-10e,intro,Tell me about yourself,"""Tell me about yourself"""
+2024-10e,intro,Tell me about yourself,What you achieved over the past 3.5 years in college
+2024-10e,project,"Project deep-dive (role, challenges, design)",Deep dive into resume projects
+2024-10e,leadership,"Leadership, event organising, leading a team",Group project and your leadership role
+2024-10e,internship,"Internship: what, how long, problems, stack",Internship experience
+2024-10e,hobbies,"Hobbies, competitions, extracurriculars",Hackathon participation
+2024-10e,failure,"Failure, conflict, being unsuccessful",Situations where you failed
+2024-10e,strengths,"Strengths, weaknesses, why hire you",The most important skills you built and where you used them
+2024-10e,your_q,"""Any questions for me?""",Your questions for the interviewer
+2024-09f,intro,Tell me about yourself,Introduce yourself (in detail)
+2024-09f,team,"Teamwork, group projects, team size","A team project, then cross-questions on it"
+2024-09f,techstack,Why this tech stack / which tech are you comfortable in,Why did you choose the tech stack? Advantages? What alternatives did you consider?
+2024-09f,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""What is prototyping in Java?"""
+2024-09f,failure,"Failure, conflict, being unsuccessful",A conflict in a team project and how you resolved it
+2024-09f,failure,"Failure, conflict, being unsuccessful",Feedback you received from a mentor and how you responded
+2024-09f,certs,Certifications and courses,Certifications done and planned
+2024-09f,strengths,"Strengths, weaknesses, why hire you",Strengths and weaknesses
+2024-09f,why,Why Accenture / what do you know about us,Why Accenture?
+2024-09f,your_q,"""Any questions for me?""",Any questions for me?
+2024-11b,intro,Tell me about yourself,Introduce yourself
+2024-11b,project,"Project deep-dive (role, challenges, design)",Explain any one of your projects
+2024-11b,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""Difference between a doubly linked list and a circular linked list"""
+2024-11b,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""A real-world example to differentiate private and protected"""
+2024-10f,intro,Tell me about yourself,Self-introduction
+2024-10f,why,Why Accenture / what do you know about us,Why Accenture?
+2024-10f,techstack,Why this tech stack / which tech are you comfortable in,"Project questions: why this tech stack, the idea"
+2024-10f,failure,"Failure, conflict, being unsuccessful","""When did you feel you were a failure?"""
+2024-10f,future,Future goals / 5 years,Goals
+2024-10f,subjects,Favourite / least favourite subject,Least favourite subject
+2024-10f,your_q,"""Any questions for me?""","Questions for us (""don't ask what you can google"")"
+2025-02a,intro,Tell me about yourself,"Introduction: name, majors, hobbies, the technology you work on"
+2025-02a,project,"Project deep-dive (role, challenges, design)",Your projects and your motivation for each
+2025-02a,project,"Project deep-dive (role, challenges, design)",Challenges in the project and how you solved them
+2025-02a,project,"Project deep-dive (role, challenges, design)","""How do you make your projects?"""
+2025-02a,hobbies,"Hobbies, competitions, extracurriculars",Hobbies
+2025-02a,your_q,"""Any questions for me?""","""Do you have any questions?"" (the candidate says never answer no)"
+2025-02a,strengths,"Strengths, weaknesses, why hire you",Strengths · weaknesses · 5 years · why hire you · how are you different
+2025-02a,leadership,"Leadership, event organising, leading a team",A leadership incident · working under pressure · a teammate who didn't finish their task
+2025-02a,degree,Your degree / branch,Why a software role despite a core branch
+2025-02b,coding,Live coding on the spot,"""Design a stack"""
+2025-02b,project,"Project deep-dive (role, challenges, design)",Projects and hobbies
+2024-09g,intro,Tell me about yourself,"""Introduce yourself"""
+2024-09g,project,"Project deep-dive (role, challenges, design)","""Explain any one of your projects"""
+2024-09g,project,"Project deep-dive (role, challenges, design)",Explain a second project
+2024-09g,your_q,"""Any questions for me?""",The candidate asked whether Accenture has GenAI projects
+2024-09h,intro,Tell me about yourself,Introduction
+2024-09h,internship,"Internship: what, how long, problems, stack",Past internship experience
+2024-09h,project,"Project deep-dive (role, challenges, design)",Difficulties faced
+2024-09h,subjects,Favourite / least favourite subject,Least favourite academic subject
+2024-09h,hobbies,"Hobbies, competitions, extracurriculars",Something unique about your college
+2024-09h,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","""Phases in software development"" (the Waterfall model)"
+2025-26-de,intro,Tell me about yourself,"""Tell me about yourself"""
+2025-26-de,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)",INNER JOIN vs LEFT JOIN
+2025-26-de,coding,Live coding on the spot,A query to find the highest salary
+2025-26-de,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)",What is indexing? Normalisation and the types of keys
+2025-26-de,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)",Basic Python: lists and dictionaries
+2025-26-de,reloc,Relocation and shifts,Willingness to relocate and work shifts
+2025-26-de,strengths,"Strengths, weaknesses, why hire you",Motivation for data engineering; strengths and weaknesses
+2024-10g,intro,Tell me about yourself,Introduce yourself
+2024-10g,project,"Project deep-dive (role, challenges, design)",Explain your web project in detail
+2024-10g,team,"Teamwork, group projects, team size",Was it a personal or a collaborative project?
+2024-10g,team,"Teamwork, group projects, team size","How did you build your college projects, and how did you select your team members?"
+2024-10g,team,"Teamwork, group projects, team size",Why did you choose the same team?
+2024-10g,failure,"Failure, conflict, being unsuccessful",How did you handle conflicts within the team?
+2024-10g,strengths,"Strengths, weaknesses, why hire you",Your strengths and weaknesses
+2024-10g,scenario,Scenario: 'imagine you build…',A few situational questions
+2024-09i,intro,Tell me about yourself,"The interviewer introduced himself first, then asked about achievements and experiences"
+2024-09i,project,"Project deep-dive (role, challenges, design)",Your projects and your specific role in them
+2024-09i,leadership,"Leadership, event organising, leading a team",Challenges you faced as a team leader
+2024-09i,team,"Teamwork, group projects, team size",Group projects or individual projects: which do you prefer?
+2024-09i,internship,"Internship: what, how long, problems, stack",Insights from your internships
+2024-09i,certs,Certifications and courses,Certifications
+2024-09i,failure,"Failure, conflict, being unsuccessful",Interpersonal challenges and how you dealt with them
+2024-09i,your_q,"""Any questions for me?""",Do you have questions for us? (she had two prepared)
+2025-11f,intro,Tell me about yourself,Introduce yourself (include your education and current semester)
+2025-11f,degree,Your degree / branch,"Which semester are you in, and what subjects do you have? (full names)"
+2025-11f,project,"Project deep-dive (role, challenges, design)","What project are you working on? Explain it with your contribution, the tech stack, the difficulties and your approach"
+2025-11f,failure,"Failure, conflict, being unsuccessful","If you face a conflict in your group, how do you resolve it?"
+2025-11f,leadership,"Leadership, event organising, leading a team",How do you lead a team?
+2025-11f,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)",What is the difference between the POST and GET methods in an API?
+2025-11f,learning,How you learn new technology,"How quickly can you adapt to a new technology, and how do you learn one under a tight deadline?"
+2025-11f,team,"Teamwork, group projects, team size",Team or individual work? Why?
+2025-11f,reloc,Relocation and shifts,Are you comfortable relocating? Night or rotational shifts?
+2025-11f,your_q,"""Any questions for me?""",Do you have any questions for me?
+2023-09c,project,"Project deep-dive (role, challenges, design)","Your projects in Python, MySQL and Power BI (data analysis)"
+2023-09c,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)",Fundamentals of OOPs
+2023-09c,coding,Live coding on the spot,Solve a piece of code the interviewer gives you
+2023-09c,intro,Tell me about yourself,Tell me about yourself
+2023-09c,family,Family background and hometown,Tell me about your family
+2024-09j,intro,Tell me about yourself,Introduce yourself
+2024-09j,hobbies,"Hobbies, competitions, extracurriculars",What is your hobby?
+2024-09j,degree,Your degree / branch,Are you a pass-out graduate or in the final year?
+2024-09j,project,"Project deep-dive (role, challenges, design)","Your final-year project: how did you implement it, with which technologies and language, and what would you add in future?"
+2024-09j,team,"Teamwork, group projects, team size",Is it a solo or a group project? What was your role?
+2024-09j,failure,"Failure, conflict, being unsuccessful","When do you feel proudest in your life, and when lowest?"
+2024-09j,leadership,"Leadership, event organising, leading a team","If you are the team leader and a member cannot finish a task, what do you do?"
+2024-09j,scenario,Scenario: 'imagine you build…',"If your project is not finished and the submission day is near, what do you do?"
+2024-09j,failure,"Failure, conflict, being unsuccessful",How do you manage a conflict between team members?
+2024-09j,your_q,"""Any questions for me?""",Do you have questions for us? (she asked about the training period)
+2023-08,intro,Tell me about yourself,"Introduce yourself (he ended by naming his favourite language, C++, and was asked about it)"
+2023-08,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","C++, the data structures and algorithms you know, and their use cases"
+2023-08,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)",A real-world example where DSA is used (answer: BFS with a queue for the shortest route)
+2023-08,scenario,Scenario: 'imagine you build…',A scenario: a path exists on the map but not in reality; how do you make fewer people use it? (answer: rank paths by usage)
+2023-08,techstack,Why this tech stack / which tech are you comfortable in,Why React and not Angular?
+2023-08,project,"Project deep-dive (role, challenges, design)",Explain one project from scratch (with a live demo)
+2023-08,project,"Project deep-dive (role, challenges, design)",Future enhancements and why people would use it
+2023-08,your_q,"""Any questions for me?""",Do you have questions for us?
+2024-10h,intro,Tell me about yourself,Introduction and your team project experience
+2024-10h,failure,"Failure, conflict, being unsuccessful",Challenges you faced and how you resolved conflicts
+2024-10h,failure,"Failure, conflict, being unsuccessful",Feedback from supervisors and how you acted on it
+2024-10h,strengths,"Strengths, weaknesses, why hire you","Strengths, weaknesses and the tech stack you want to learn"
+2024-10h,certs,Certifications and courses,Certifications
+2024-10h,why,Why Accenture / what do you know about us,Why do you want to join Accenture?
+2024-10i,project,"Project deep-dive (role, challenges, design)","Questions on your resume, projects and training or internship"
+2024-10i,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","Linked list traversal and reversal, and the circular linked list"
+2024-10i,scenario,Scenario: 'imagine you build…',"Situation-based questions, and 'what did you learn from this?'"
+2024-10i,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","Cyber security and cloud, not in depth (asked of some students)"
+2024-10i,failure,"Failure, conflict, being unsuccessful",How will you finish your work if you must work with someone you have a conflict with?
+2024-09k,intro,Tell me about yourself,Introduce yourself
+2024-09k,project,"Project deep-dive (role, challenges, design)",Explain your favourite project
+2024-09k,project,"Project deep-dive (role, challenges, design)","If you did this project again, would you change anything?"
+2024-09k,internship,"Internship: what, how long, problems, stack",Tell me about your internship experience
+2024-09k,internship,"Internship: what, how long, problems, stack",How was it working with the client during your internship?
+2024-09k,failure,"Failure, conflict, being unsuccessful",How would you handle a team conflict?
+2024-09k,scenario,Scenario: 'imagine you build…',How do you manage deadlines?
+2024-09k,subjects,Favourite / least favourite subject,What is your least favourite subject?
+2024-09k,your_q,"""Any questions for me?""",Do you have any questions for us?
+2024-09l,project,"Project deep-dive (role, challenges, design)",Questions on the resume and basic HR questions
+2024-10k,intro,Tell me about yourself,Introduction
+2024-10k,internship,"Internship: what, how long, problems, stack","Explain your internship, group projects and individual projects"
+2024-10k,project,"Project deep-dive (role, challenges, design)",What was your role in the group project?
+2024-10k,failure,"Failure, conflict, being unsuccessful","Challenges, team size, conflicts, and how you handled them"
+2024-10k,team,"Teamwork, group projects, team size",Team or individual work: what differences have you noticed?
+2024-10k,failure,"Failure, conflict, being unsuccessful",What feedback did your team members give you?
+2024-10k,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)",What is the difference between an array and a linked list?
+2024-10k,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)","Rate yourself in data structures, algorithms and OOP"
+2024-10k,coding,Live coding on the spot,Can you implement a queue using a stack?
+2024-10k,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)",What is data abstraction? (explain with a real-life example)
+2024-10k,leadership,"Leadership, event organising, leading a team","As a team lead, how would you distribute a project among your team?"
+2024-10k,certs,Certifications and courses,Have you completed any certifications beyond academics?
+2024-10k,your_q,"""Any questions for me?""",Do you have any questions for me? (he asked three about IT challenges and expectations from freshers)
+2024-09m,intro,Tell me about yourself,Introduce yourself
+2024-09m,project,"Project deep-dive (role, challenges, design)",Discuss your project (expect in-depth questions about the technologies)
+2024-09m,leadership,"Leadership, event organising, leading a team","As a team lead, someone always takes credit for himself: how will you deal with him?"
+2024-10l,intro,Tell me about yourself,Introduce yourself (the audio was poor and he asked for the question again)
+2024-10l,learning,How you learn new technology,"If I ask you to learn a new technology in a month, how will you learn it? What is your approach?"
+2024-10l,your_q,"""Any questions for me?""",Do you have any questions for me? (he asked: is the process the same for on-campus and off-campus; is the project assigned by your score in the primers?)
+2024-02,strengths,"Strengths, weaknesses, why hire you","HR-style questions, all answered"
+2024-02,cs,"CS fundamentals (OOP, DBMS, OS, DS, web, cloud, agile)",Two technical questions (he got stuck explaining one)
+2024-02,certs,Certifications and courses,Do you have any certifications?
+2024-02,your_q,"""Any questions for me?""",Do you have any questions for us? (he volunteered his weakness: not being an expert in technologies)
